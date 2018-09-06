@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![The ZUCC](https://i.amz.mshcdn.com/SFX1UjSHfRJdJy-14dmchpecMeA=/950x534/filters:quality(90)/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F679433%2Fb198cef8-2aca-4f6d-ad63-52dee17194e0.jpg)
