@@ -1,7 +1,7 @@
 My Favourite Things:
 
-1.Bread
+-1.Bread
 
-2.Sleep
+-2.Sleep
 
-3.The shower
+-3.The shower
