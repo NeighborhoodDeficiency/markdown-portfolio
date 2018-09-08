@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+My Favourite Things:
+
+1.Bread
+
+2.Sleep
+
+3.The shower
