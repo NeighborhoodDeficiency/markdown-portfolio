@@ -1,8 +1,7 @@
 My Favourite Things:
 
--item
--1.Bread
+- Bread
 
--2.Sleep
+- Sleep
 
--3.The shower
+- The shower
